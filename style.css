@@ -1,0 +1,5 @@
+#main-content{width:100%; height:auto; background:#f9f9f9; display:flex; display:-webkit-flex; display:-ms-flexbox;}
+
+#main-content aside{flex: 1 1 0; -webkit-flex:1 1 0; -ms-flex: 1 1 100px; background:lightblue; min-height:600px;}
+
+#main-content article{flex: 5 1 0; -webkit-flex:5 1 0; -ms-flex: 5 1 100px;}
